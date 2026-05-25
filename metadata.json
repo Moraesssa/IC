@@ -1,0 +1,6 @@
+{
+  "name": "ScholarML",
+  "description": "Simulador analítico, laboratório de Machine Learning e helper para o Processo Seletivo de Iniciação Científica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
